@@ -1,0 +1,12 @@
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\bin\Debug\net6.0\MyProject.MODEL.deps.json
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\bin\Debug\net6.0\MyProject.MODEL.dll
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\bin\Debug\net6.0\MyProject.MODEL.pdb
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.csproj.AssemblyReference.cache
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.AssemblyInfoInputs.cache
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.AssemblyInfo.cs
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.dll
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\refint\MyProject.MODEL.dll
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\MyProject.MODEL.pdb
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\MyProject.MODEL\obj\Debug\net6.0\ref\MyProject.MODEL.dll

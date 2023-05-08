@@ -1,0 +1,17 @@
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\bin\Debug\net6.0\Myproject.DAL.deps.json
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\bin\Debug\net6.0\Myproject.DAL.runtimeconfig.json
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\bin\Debug\net6.0\Myproject.DAL.dll
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\bin\Debug\net6.0\Myproject.DAL.pdb
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.csproj.AssemblyReference.cache
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.AssemblyInfoInputs.cache
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.AssemblyInfo.cs
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.dll
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\refint\Myproject.DAL.dll
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.pdb
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.genruntimeconfig.cache
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\ref\Myproject.DAL.dll
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\bin\Debug\net6.0\MyProject.MODEL.dll
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\bin\Debug\net6.0\MyProject.MODEL.pdb
+C:\Users\ccasm\source\repos\ATVLP3TABELA2\Myproject.DAL\obj\Debug\net6.0\Myproject.DAL.csproj.CopyComplete
